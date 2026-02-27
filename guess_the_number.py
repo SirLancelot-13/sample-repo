@@ -24,4 +24,3 @@ def guess_the_number():
 if __name__ == "__main__":
     guess_the_number()
     
-#Note: I might not be available for a few days so jus leave me a message at my reddit account: u/11t_tpt_d4_g04t
